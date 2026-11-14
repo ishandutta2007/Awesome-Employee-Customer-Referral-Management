@@ -15,23 +15,28 @@ This repository tracks notable **SaaS platforms** and **open-source projects** f
 Contributions welcome! Open an PR to add/update entries. Keep descriptions factual and link to official sites.
 
 ## Table of Contents
-- [SaaS/Hosted Platforms](#saas-products)
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
+- [SaaS/Hosted Platforms](#saas-hosted-platforms)
 - [Open-Source GitHub Projects](#open-source-github-projects)
 - [How to Contribute](#how-to-contribute)
 - [Disclaimer](#disclaimer)
 
+## Sector Overview & Market Dynamics
+
+The global referral and advocacy marketing software sector is estimated at **$1.4B to $1.5B** (projected to exceed **$2.7B** by 2030 at ~13% CAGR), driven by surging customer acquisition costs (CAC) and cookie deprecation. The market is **moderately fragmented** rather than winner-take-all; while enterprise leaders (Mention Me, Extole) capture high-volume brand contracts, numerous specialized mid-market and SMB platforms (Friendbuy, ReferralCandy, Referral Factory) coexist profitably alongside edge-native and self-hosted open-source challengers.
+
 ## SaaS/Hosted Platforms
 
-| Product | Description | Pricing (Starting) | Free Tier / Trial Limits |
-|---------|-------------|-------------------|--------------------------|
-| **[ReferralCandy](https://www.referralcandy.com/)** | E-commerce referral and affiliate program software for Shopify, BigCommerce, and WooCommerce. Manages both customer referrals and affiliate programs in one account. Users praise ease of setup and customizable rewards; some note limited customization options and a dated interface . | From **$793.50/month** (third-party listing)  | No free tier; free trial available |
-| **[Ambassador](https://ambassador.com/)** | Referral marketing and partner management platform. Positioned for mid-market and enterprise brands wanting a full referral suite. | Quote-only | No free tier; demo via sales |
-| **[SaaSquatch](https://saasquatch.com/)** | Enterprise referral and loyalty platform. Handles complex reward structures, fraud prevention, and multi-tenant programs for large brands. | Quote-only | No free tier; demo via sales |
-| **[Mention Me](https://www.mention-me.com/)** | Referral marketing platform popular in UK/Europe. Focuses on customer advocacy and brand-led referral experiences. | Quote-only | No free tier; demo via sales |
-| **[Extole](https://www.extole.com/)** | Enterprise referral marketing platform. Covers customer referrals, influencer advocacy, and partner programs with analytics. | Quote-only | No free tier; demo via sales |
-| **[Referral Factory](https://referralfactory.com/)** | No-code referral program builder. Users highlight ease of use and quick launch; some cite engagement tracking limitations . | From **$100/month** (third-party listing)  | Free trial available |
-| **[Talkable](https://www.talkable.com/)** | Referral marketing platform for e-commerce and SaaS. Focuses on high-conversion referral experiences and A/B testing. | Quote-only | No free tier; demo via sales |
-| **[Friendbuy](https://www.friendbuy.com/)** | Referral and loyalty platform for e-commerce brands. Integrates with Shopify, BigCommerce, and Magento. | Quote-only | No free tier; demo via sales |
+| Product | Company Size (Est. Revenue / Valuation) | Pricing (Starting Tier) | Free Tier Limits | Description |
+|---|---|---|---|---|
+| **[Mention Me](https://www.mention-me.com/)** | ~$10M–$25M ARR / ~$100M Valuation ($32M funding) | Custom / Quote-based (typically scales with AOV and online order volume) | No free tier; free trial available by sales consultation / custom demo | Referral marketing & customer advocacy platform popular in UK/Europe for mid-market and enterprise D2C brands. |
+| **[Extole](https://www.extole.com/)** | ~$10M–$15M ARR / $54.2M Funding | From **$999/month** (App/Mid-market tier for <$10M GMV; enterprise up to $120k+/yr) | No free tier; no self-serve free trial (guided demo & evaluation with sales) | Enterprise referral marketing, partner programs, and customer-led growth platform with deep API/SDK support. |
+| **[Talkable](https://www.talkable.com/)** | ~$11M ARR / $4.8M Funding | From **$800/month** (core managed plans typically $12k–$30k/yr; Shopify entry tier from $59/mo) | No free tier; no public free trial (requires sales consultation and demo) | Enterprise referral marketing platform for high-growth e-commerce and SaaS, focused on multi-variant A/B testing and fraud controls. |
+| **[Friendbuy](https://www.friendbuy.com/)** | ~$5.5M–$6M ARR / $1.8M Funding | From **$249/month** (Starter tier billed annually) | No permanent free tier; 14-day free trial available on self-serve onboarding | Referral and loyalty platform tailored for e-commerce and fast-scaling direct-to-consumer (DTC) brands. |
+| **[ReferralCandy](https://www.referralcandy.com/)** | ~$4.6M–$5.2M ARR / ~$778K Funding | From **$39/month** (Basic plan + 10.5% success fee on referral sales) | No permanent free tier; 7-day free trial on all plans (full feature access) | E-commerce referral and affiliate program software for Shopify, BigCommerce, and WooCommerce. |
+| **[Ambassador](https://ambassador.com/)** | ~$4.3M ARR / $50.9M Funding | From **$125/month** (Starter tier; custom scaling for mid-market/enterprise) | No permanent free tier; demo/trial provisioned upon request with sales team | Referral marketing, affiliate tracking, and relationship management platform for mid-market brands. |
+| **[Referral Factory](https://referralfactory.com/)** | ~$2M–$3M ARR / ~€500K Funding | From **$200/month** (Basic plan; $160/mo billed annually) | No permanent free tier; 15-day free trial (up to 20,000 campaign participants) | No-code referral program builder with plug-and-play templates and native CRM integrations. |
+| **[SaaSquatch](https://saasquatch.com/)** | ~$1.1M–$2M ARR / Venture-backed | From **$500/month** (Standard plan; custom enterprise tiers available) | No free tier; no self-serve free trial (demo and evaluation sandbox via sales) | Enterprise loyalty and referral platform supporting complex reward workflows and multi-tenant architectures. |
 
 ## Open-Source GitHub Projects
 
