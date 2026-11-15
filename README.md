@@ -66,9 +66,9 @@ The industry demonstrates **moderate fragmentation** rather than winner-take-all
 
 Curated self-hosted and open-source engines for referral programs, affiliate tracking, employee hiring referrals, and commission management.
 
-*Sorted by GitHub Star count in descending order:*
+*Sorted by GitHub Stars_Count in descending order:*
 
-| Project | Star Badge | Tech Stack | License | Description |
+| Project | Stars_Badge | Tech Stack | License | Description |
 |---------|------------|------------|---------|-------------|
 | **[RefRef](https://github.com/refrefhq/refref)** | [![Stars](https://img.shields.io/github/stars/refrefhq/refref?style=social&color=white)](https://github.com/refrefhq/refref/stargazers) | TypeScript, Next.js, Docker, PostgreSQL | MIT | **Self-hosted referral and affiliate marketing platform you can launch in minutes.** Features JS snippet attribution, customizable reward structures, dedicated advocate/referrer portals, partner affiliate dashboards, and automated email nudges. |
 | **[laravel-referral](https://github.com/voocx/laravel-referral)** | [![Stars](https://img.shields.io/github/stars/voocx/laravel-referral?style=social&color=white)](https://github.com/voocx/laravel-referral/stargazers) | PHP, Laravel | MIT | **Comprehensive referral management package for Laravel.** Adds effortless referral tracking, cookie expiration handling, customizable token generators, and relationship models for rewarding referrers on signup and purchase actions. |
@@ -98,7 +98,7 @@ Contributions are warmly welcomed! Help grow this knowledge base:
 
 1. 🍴 **Fork the repo.**
 2. 🌿 **Create your feature branch:** `git checkout -b feature/new-referral-tool`
-3. 📝 **Add or update entries in `README.md`:** Maintain table schemas and star badge standards (`style=social&color=white`). Ensure links point directly to stargazers and official landing pages.
+3. 📝 **Add or update entries in `README.md`:** Maintain table schemas and Stars_Badge standards (`style=social&color=white`). Ensure links point directly to stargazers and official landing pages.
 4. 💡 **Include:** Tool name, URL, short factual description, pricing/licensing details.
 5. 🚀 **Submit a Pull Request** with a brief summary of the project added.
 
